@@ -1,0 +1,9 @@
+[
+  {
+    "hostname": "mysql.example.internal",
+    "database": "scripting",
+    "username": "readonly-user",
+    "password": "replace-me",
+    "tablename": ["table_a", "table_b"]
+  }
+]
